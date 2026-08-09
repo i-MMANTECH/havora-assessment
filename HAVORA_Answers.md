@@ -4,13 +4,13 @@
 **Role:** Software Engineer (Volunteer)
 
 ### 1. Why do you want to join HAVORA?
-I am passionate about building impactful, user-centric platforms. The vision behind HAVORA—fostering intentional relationships and meaningful connections—deeply resonates with me. I am eager to bring my expertise in scalable architectures and modern UI engineering to help HAVORA grow and deliver a flawless user experience.
+I've always been drawn to products that genuinely impact people's lives, and HAVORA's vision of fostering intentional, meaningful relationships really caught my attention. I want to bring my experience in building fast, scalable systems to help the platform grow, while also collaborating with a team that's building something this exciting and purpose-driven.
 
 ### 2. What did you enjoy most while completing this assessment?
-I really enjoyed designing a clean, intuitive, and highly responsive multi-step user interface from scratch. Implementing the state management across the onboarding flow alongside smooth transitions and dark mode support was a fun exercise in balancing aesthetics with robust engineering.
+I really enjoyed putting the UI together from scratch! It was a lot of fun figuring out how to make a clean, multi-step flow that feels intuitive to the user. Tying in the smooth transitions and dark mode just added that extra layer of polish that I absolutely love working on.
 
 ### 3. If you had one more week, what would you improve?
-With an extra week, I would implement comprehensive unit and integration testing using Jest and React Testing Library. I would also add state persistence (e.g., via `localStorage`) so users wouldn't lose their progress on a page reload, and I would further enhance the app's accessibility (a11y) to strictly meet WCAG standards.
+I’d definitely add full unit and integration tests (using Jest and React Testing Library) just to keep things rock solid. I'd also hook up `localStorage` so users don't lose their data if they accidentally refresh the page, and spend a bit more time making sure the whole flow is perfectly accessible for screen readers (WCAG compliance).
 
 ### 4. What area of software engineering are you currently learning or hoping to improve?
-Coming from a strong full-stack and systems architecture background, I am currently exploring deeper integrations of Applied AI within frontend ecosystems (like bringing on-device LLM capabilities or intelligent user personalization directly to the browser), as well as further mastering advanced WebGL/3D rendering techniques for even more immersive web experiences.
+Lately, I’ve been diving into how we can integrate AI closer to the frontend—like running small LLM models directly in the browser to create smarter, personalized UIs. Aside from that, I'm also brushing up on advanced WebGL and 3D rendering techniques to figure out how to build even more immersive web experiences.
